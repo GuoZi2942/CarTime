@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <CarTime>
+    <Mypk>c7b4617c-2a3a-4cb9-8ff0-254f5f37a77e</Mypk>
+    <Lbstart>高新区万达广场统一银座门口</Lbstart>
+    <Lbend>齐鲁软件园北</Lbend>
+    <Dtstart>2018/9/11 14:27:16</Dtstart>
+    <Dtend>2018/9/11 14:27:16</Dtend>
+    <Licheng>9</Licheng>
+    <Costtime>30</Costtime>
+    <Jine>13.32</Jine>
+  </CarTime>
+  <CarTime>
+    <Mypk>e0787be4-cec8-42fd-808e-0906757fa47a</Mypk>
+    <Lbstart>高新区万达广场统一银座门口</Lbstart>
+    <Lbend>高新区万达广场统一银座门口</Lbend>
+    <Dtstart>2018/9/9 14:27:16</Dtstart>
+    <Dtend>2018/9/9 14:27:16</Dtend>
+    <Licheng>23</Licheng>
+    <Costtime>70</Costtime>
+    <Jine>32.02</Jine>
+  </CarTime>
+  <CarTime>
+    <Mypk>82cd64fd-ac95-4c93-8b1c-904447d6ed6c</Mypk>
+    <Lbstart>齐鲁软件园北</Lbstart>
+    <Lbend>高新区万达广场统一银座门口</Lbend>
+    <Dtstart>2018/9/7 14:27:16</Dtstart>
+    <Dtend>2018/9/7 14:27:16</Dtend>
+    <Licheng>33</Licheng>
+    <Costtime>142</Costtime>
+    <Jine>50</Jine>
+  </CarTime>
+  <CarTime>
+    <Mypk>f79ae0f0-c5cd-4ec6-ae79-375c88ed497e</Mypk>
+    <Lbstart>高新区万达广场统一银座门口</Lbstart>
+    <Lbend>齐鲁软件园北</Lbend>
+    <Dtstart>2018/9/6 14:27:16</Dtstart>
+    <Dtend>2018/9/6 14:27:16</Dtend>
+    <Licheng>7</Licheng>
+    <Costtime>57</Costtime>
+    <Jine>14.06</Jine>
+  </CarTime>
+  <CarTime>
+    <Mypk>3de25a57-5769-49c9-a7a6-e8c49166d9d8</Mypk>
+    <Lbstart>高新区万达广场统一银座门口</Lbstart>
+    <Lbend>齐鲁软件园北</Lbend>
+    <Dtstart>2018/9/5 14:27:16</Dtstart>
+    <Dtend>2018/9/5 14:27:16</Dtend>
+    <Licheng>9</Licheng>
+    <Costtime>43</Costtime>
+    <Jine>14.62</Jine>
+  </CarTime>
+  <CarTime>
+    <Mypk>0992a4d9-d348-4b33-b15d-ab2938fdd442</Mypk>
+    <Lbstart>高新区万达广场统一银座门口</Lbstart>
+    <Lbend>齐鲁软件园北</Lbend>
+    <Dtstart>2018/9/4 14:27:16</Dtstart>
+    <Dtend>2018/9/4 14:27:16</Dtend>
+    <Licheng>10</Licheng>
+    <Costtime>54</Costtime>
+    <Jine>16.7</Jine>
+  </CarTime>
+  <CarTime>
+    <Mypk>2de5620e-e8ff-4d9f-8175-59ad00686279</Mypk>
+    <Lbstart>高新区万达广场统一银座门口</Lbstart>
+    <Lbend>齐鲁软件园北</Lbend>
+    <Dtstart>2018/9/3 14:27:16</Dtstart>
+    <Dtend>2018/9/3 14:27:16</Dtend>
+    <Licheng>10</Licheng>
+    <Costtime>46</Costtime>
+    <Jine>15.9</Jine>
+  </CarTime>
+  <CarTime>
+    <Mypk>899feab1-b6db-4fa3-b0f9-8dad98714b2d</Mypk>
+    <Lbstart>高新区万达广场统一银座门口</Lbstart>
+    <Lbend>齐鲁软件园北</Lbend>
+    <Dtstart>2018/9/2 14:27:16</Dtstart>
+    <Dtend>2018/9/2 14:27:16</Dtend>
+    <Licheng>46</Licheng>
+    <Costtime>301</Costtime>
+    <Jine>79.62</Jine>
+  </CarTime>
+</config>

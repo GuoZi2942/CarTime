@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\CarTime\CarTime\bin\Debug\CarTime.exe
+C:\Users\Administrator\Desktop\CarTime\CarTime\bin\Debug\CarTime.pdb
+C:\Users\Administrator\Desktop\CarTime\CarTime\obj\x86\Debug\CarTime.Form1.resources
+C:\Users\Administrator\Desktop\CarTime\CarTime\obj\x86\Debug\CarTime.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CarTime\CarTime\obj\x86\Debug\CarTime.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\CarTime\CarTime\obj\x86\Debug\CarTime.exe
+C:\Users\Administrator\Desktop\CarTime\CarTime\obj\x86\Debug\CarTime.pdb
+C:\Users\Administrator\Desktop\CarTime\CarTime\obj\x86\Debug\CarTime.csproj.ResolveComReference.cache
